@@ -1,0 +1,8 @@
+.vscode/
+webpack.bat
+webpack.txt
+*.zip
+*.log
+*.pyc
+venv/
+cache-directory/*
